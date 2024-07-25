@@ -1,4 +1,3 @@
-
 # Data Analytics Repository
 
 Welcome to the **Data Analytics** repository! This collection is dedicated to showcasing various Exploratory Data Analysis (EDA) projects that demonstrate my skills in data analysis, visualization, and storytelling. Each project is designed to uncover insights, patterns, and trends within different datasets, providing a comprehensive understanding of the data.
@@ -26,7 +25,7 @@ In this repository, you will find a series of EDA projects that span multiple do
    - **Tools Used**: Tableau, PostgreSQL, ODBC.
    - **Dashboard**:
      
-https://github.com/AashayBharadwaj/Data-Analytics-EDA/blob/0d3dfd264f78cc8de697786fdfcee0110a6166ec/Images/dashboard_tableau_videogames.png
+     ![Video Game Sales Dashboard](https://github.com/AashayBharadwaj/Data-Analytics-EDA/blob/0d3dfd264f78cc8de697786fdfcee0110a6166ec/Images/dashboard_tableau_videogames.png)
 
 ## Installation
 
