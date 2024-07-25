@@ -26,7 +26,7 @@ In this repository, you will find a series of EDA projects that span multiple do
    - **Tools Used**: Tableau, PostgreSQL, ODBC.
    - **Dashboard**:
      
-     ![Video Game Sales Dashboard](path-to-image)  *(Replace with actual path to image)*
+    [ ![Video Game Sales Dashboard](path-to-image) ](https://github.com/AashayBharadwaj/Data-Analytics-EDA/blob/0d3dfd264f78cc8de697786fdfcee0110a6166ec/Images/dashboard_tableau_videogames.png) *(Replace with actual path to image)*
 
 ## Installation
 
